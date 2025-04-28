@@ -75,6 +75,7 @@ A curated list of awesome Bulgarian language resources.
 * [Bulgarian for foreigners with Kristina Progress](https://www.youtube.com/@kristinaprogress/videos)
 * [Vasil Todorov](https://www.youtube.com/@vasiltodorov405/videos)
 * [Bulgarian Language Academy BELLA ](https://www.youtube.com/@bulgarianlanguageacademy2587/videos)
+* [Bulgarian with golyplot](https://www.youtube.com/@golyplot/videos)
 
 ### Music
 * [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
