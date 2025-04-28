@@ -19,16 +19,23 @@ A curated list of awesome Bulgarian language resources.
 * [Books](#books)
 * [Government Institutes](#government-institutes)
 
-### Online courses
+### Online courses and apps
 * [Bulgaro](https://www.bulgaro.io/learn-bulgarian)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
-* [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/)
-* [Glossika](https://ai.glossika.com/language/learn-bulgarian)
-* [Ling](https://ling-app.com/learn-bulgarian)
+* [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/) [\[app\] (https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages)
+* [Glossika](https://ai.glossika.com/language/learn-bulgarian) [\app\] (https://play.google.com/store/apps/details?id=com.glossika.ai)
+* [Ling](https://ling-app.com/learn-bulgarian) [\app\] (https://play.google.com/store/apps/details?id=com.simyasolutions.ling.universal)
 * [Lingohut](https://www.lingohut.com/en/l113/learn-bulgarian)
+* [Readlang](https://readlang.com/bg/dashboard)
+* [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
+* [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/languages/bulgarian.html)
+* [iLanguages](https://ilanguages.org/bulgarian.php)
+* [Linguicious resources](https://linguicious.com/en/study-bulgarian)
 * [Talkio](https://www.talkio.ai/languages/bg-bg)
 * [Berlitz](https://www.berlitz.com/languages/bulgarian)
-* [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
+* [Dinolingo learn Bulgarian for kids](https://www.dinolingo.com/learn-bulgarian-for-kids)
+* [uneasylearn](https://www.funeasylearn.com/learn-bulgarian) [\app\](https://play.google.com/store/apps/details?id=com.funeasylearn.bulgarian)
+* [qLango](https://qlango.com/languages) [\app\](https://play.google.com/store/apps/details?id=co.uk.exocron.android.qlango)
 
 ### Podcasts
 * [BulgarianPod101](https://www.bulgarianpod101.com)
