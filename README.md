@@ -5,7 +5,7 @@ A curated list of awesome Bulgarian language resources.
 
 
 ## Table of contents
-* [Online courses and apps](#online-courses)
+* [Online courses](#online-courses)
 * [Dictionaries](#dictionaries)
 * [Podcasts](#podcasts)
 * [Radios](#radios)
@@ -20,7 +20,7 @@ A curated list of awesome Bulgarian language resources.
 * [Government Institutes](#government-institutes)
 * [Misc](#misc)
 
-### Online courses and apps
+### Online courses
 * [Bulgaro](https://www.bulgaro.io/learn-bulgarian)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
 * [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/) [\[app\]](https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages)
@@ -30,7 +30,7 @@ A curated list of awesome Bulgarian language resources.
 * [Readlang](https://readlang.com/bg/dashboard)
 * [Funeasylearn](https://www.funeasylearn.com/learn-bulgarian) [\[app\]](https://play.google.com/store/apps/details?id=com.funeasylearn.bulgarian)
 * [qLango](https://qlango.com/languages) [\[app\]](https://play.google.com/store/apps/details?id=co.uk.exocron.android.qlango)
-* [Tobo: Learn Bulgarian Words] [\[app\]](https://play.google.com/store/apps/details?id=com.learn.common.bulgarian.vocabulary.words.learning.phrases)
+* [Tobo - Learn Bulgarian Words] [\[app\]](https://play.google.com/store/apps/details?id=com.learn.common.bulgarian.vocabulary.words.learning.phrases)
 * [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/languages/bulgarian.html)
 * [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
 * [iLanguages](https://ilanguages.org/bulgarian.php)
@@ -44,7 +44,7 @@ A curated list of awesome Bulgarian language resources.
 * [Clozemaster](https://www.clozemaster.com/languages/expand-bulgarian-vocabulary)
 
 ### Dictionaries
-* [online rechnik](https://www.onlinerechnik.com)
+* [Online rechnik](https://www.onlinerechnik.com)
 * [English-Bulgarian and Multilingual Dictionary](https://bgen.dict.cc)
 * [PONS](https://en.pons.com/translate/bulgarian-english)
 * [Bjargon](https://www.bgjargon.com)
@@ -75,8 +75,8 @@ A curated list of awesome Bulgarian language resources.
 * [Bulgarian rock on Youtube](https://www.youtube.com/watch?v=ew204Vi5EvQ&list=PL8elq6vwVConJdc8GyqYrNJwoMgfyxDkF&index=1)
 
 ### Flashcards
-* [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-  * [Top 1000 Bulgarian Words (to English)]([https://ankiweb.net/shared/info/463280893](https://ankiweb.net/shared/info/1372052043))
+* [Anki](https://apps.ankiweb.net) [\[app\]](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+  * [Top 1000 Bulgarian Words (to English)](https://ankiweb.net/shared/info/1372052043)
   * [Bulgarian Cyrillic, with audio (www.bulgaro.io)](https://ankiweb.net/shared/info/508216650)
   * [Bulgarian Language A1/A2 (MUV Medical University Varna)](https://ankipro.net/library/deck/7758/bulgarian-language-a1a2--muv-medical-university-varna-)
 
