@@ -12,6 +12,7 @@ A curated list of awesome Bulgarian language resources.
 * [Newspapers](#newspapers)
 * [TV channels](#tv-channels)
 * [YouTube channels](#youtube-channels)
+* [Music)(#music)
 * [Flashcards](#flashcards)
 * [Magazines](#magazines)
 * [Blogs](#blogs)
@@ -21,13 +22,13 @@ A curated list of awesome Bulgarian language resources.
 ### Online courses and apps
 * [Bulgaro](https://www.bulgaro.io/learn-bulgarian)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
-* [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/) [\[app\]] (https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages)
-* [Glossika](https://ai.glossika.com/language/learn-bulgarian) [\[app\]] (https://play.google.com/store/apps/details?id=com.glossika.ai)
-* [Ling](https://ling-app.com/learn-bulgarian) [\[app\]] (https://play.google.com/store/apps/details?id=com.simyasolutions.ling.universal)
+* [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/) [\[app\]](https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages)
+* [Glossika](https://ai.glossika.com/language/learn-bulgarian) [\[app\]](https://play.google.com/store/apps/details?id=com.glossika.ai)
+* [Ling](https://ling-app.com/learn-bulgarian) [\[app\]](https://play.google.com/store/apps/details?id=com.simyasolutions.ling.universal)
 * [Lingohut](https://www.lingohut.com/en/l113/learn-bulgarian)
 * [Readlang](https://readlang.com/bg/dashboard)
-* [Funeasylearn](https://www.funeasylearn.com/learn-bulgarian) [\[app\]] (https://play.google.com/store/apps/details?id=com.funeasylearn.bulgarian)
-* [qLango](https://qlango.com/languages) [\[app\]] (https://play.google.com/store/apps/details?id=co.uk.exocron.android.qlango)
+* [Funeasylearn](https://www.funeasylearn.com/learn-bulgarian) [\[app\]](https://play.google.com/store/apps/details?id=com.funeasylearn.bulgarian)
+* [qLango](https://qlango.com/languages) [\[app\]](https://play.google.com/store/apps/details?id=co.uk.exocron.android.qlango)
 * [Tobo: Learn Bulgarian Words] [\[app\]] (https://play.google.com/store/apps/details?id=com.learn.common.bulgarian.vocabulary.words.learning.phrases)
 * [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/languages/bulgarian.html)
 * [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
@@ -62,6 +63,11 @@ A curated list of awesome Bulgarian language resources.
 * [Bulgarian for foreigners with Kristina Progress](https://www.youtube.com/@kristinaprogress/videos)
 * [Vasil Todorov](https://www.youtube.com/@vasiltodorov405/videos)
 * [Bulgarian Language Academy BELLA ](https://www.youtube.com/@bulgarianlanguageacademy2587/videos)
+
+### MUSIC
+* [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
+* [RYM Top 100 Bulgarian Artists](https://rateyourmusic.com/list/Miklak/top_100_bulgarian_artists_on_rym)
+* [Bulgarian rock on Youtube](https://www.youtube.com/watch?v=ew204Vi5EvQ&list=PL8elq6vwVConJdc8GyqYrNJwoMgfyxDkF&index=1)
 
 ### Flashcards
 * [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
