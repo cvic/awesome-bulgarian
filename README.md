@@ -100,7 +100,7 @@ A curated list of awesome Bulgarian language resources.
 ### Books
 * [Teach yourself Bulgarian! Michael Holman, Mira Kovatcheva](https://www.goodreads.com/book/show/1262212.Bulgarian)
 * [Colloquial Bulgarian, Kjetil Ra Ra Hauge, Yovka Tisheva](https://www.goodreads.com/book/show/26519366-colloquial-bulgarian)
-* [Intensive Bulgarian, Vol. 1: A Textbook & Reference Grammar, Ronelle Alexander, Olga M. Mladenova] (https://www.goodreads.com/book/show/1626542.Intensive_Bulgarian_Vol_1)
+* [Intensive Bulgarian, Vol. 1: A Textbook & Reference Grammar, Ronelle Alexander, Olga M. Mladenova](https://www.goodreads.com/book/show/1626542.Intensive_Bulgarian_Vol_1)
 * [Intensive Bulgarian, Vol. 2: A Textbook & Reference Grammar, Ronelle Alexander, Olga M. Mladenova](https://www.goodreads.com/book/show/1626547.Intensive_Bulgarian_Vol_2)
 
 ### Misc
