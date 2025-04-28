@@ -34,7 +34,7 @@ A curated list of awesome Bulgarian language resources.
 * [Simply Bulgarian](https://simplylearnapp.com/bulgarian/index.html) [\[app\]](https://play.google.com/store/apps/details?id=simply.learn.bulgarian)
 * [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/languages/bulgarian.html)
 * [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
-* [Learn Bulgarian by InnovationApps] [\[app\]](https://play.google.com/store/apps/details?id=simply.learn.bulgarian)
+* [Learn Bulgarian by InnovationApps](https://play.google.com/store/apps/details?id=simply.learn.bulgarian)
 * [Learn Bulgarian with Bluebird Languages](https://bluebirdlanguages.com)
 * [iLanguages](https://ilanguages.org/bulgarian.php)
 * [uTalk](https://utalk.com/en/plans/bulgarian)
