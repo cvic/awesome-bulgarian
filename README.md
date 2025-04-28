@@ -89,6 +89,12 @@ A curated list of awesome Bulgarian language resources.
     * [r/Bulgaria](https://www.reddit.com/r/bulgaria/comments/8wcq5x/so_you_want_to_learn_bulgarian_huh/)
     * [r/Bulgarian_Language](https://www.reddit.com/r/Bulgarian_Language/comments/1e9e6ou/some_resources/)
  * [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
-      
+
+### Blogs 
+* [Lyudmila Antonov](https://lyudmilantonov.blogspot.com)
+* [Bulgarian Dialectology](https://bulgariandialectology.org/status-texts)
+* [The Bulgarian](https://www.thebulgarian.eu)
+* [Auntie Bulgaria](https://auntiebulgaria.com)
+
 ### Misc
 * [Transliterates from Bulgarian cyrillic to latin according to official Bulgarian rules](https://github.com/Efesto/vasov)
