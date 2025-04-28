@@ -1,4 +1,4 @@
-# # awesome-bulgarian :bg:
+# awesome-bulgarian :bulgaria:
 A curated list of awesome Bulgarian language resources.
 
 > If you have a suggestion or found a broken link, please do not hesitate on [open an issue](https://github.com/cvic/awesome-bulgarian/issues).
@@ -19,8 +19,7 @@ A curated list of awesome Bulgarian language resources.
 * [Books](#books)
 * [Government Institutes](#government-institutes)
 
-
-## Online courses
+### Online courses
 * [Bulgaro](https://www.bulgaro.io/learn-bulgarian)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
 * [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/)
@@ -31,15 +30,27 @@ A curated list of awesome Bulgarian language resources.
 * [Berlitz](https://www.berlitz.com/languages/bulgarian)
 * [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
 
+### Podcasts
+* [BulgarianPod101](https://www.bulgarianpod101.com)
+* [Learn Bulgarian](https://open.spotify.com/show/4Rag6OZzw3UliR05eDTotk)
+* [Bulgarian History Podcast](https://www.bghistorypodcast.com)
+* [Gradski detektiv/The Urban Detective](https://www.detectivepodcast.com/en/)
+* [SBS Bulgarian](https://tunein.com/podcasts/News--Politics-Podcasts/SBS-Bulgarian-p414924/)
+* [БНР подкасти](https://soundcloud.com/bnrpodcasts/sets/novinite-na-detski-ezik)
 
-## YouTube channels
+### Radios
+* [BG Radio](https://bg-radio.org)
+* [Radio Bulgaria On Air Live](https://www.bgonair.bg/p/radio)
+
+### YouTube channels
 * [BulgarianPod](https://www.youtube.com/@BulgarianPod101/videos)
 * [Bulgarian for foreigners with Kristina Progress](https://www.youtube.com/@kristinaprogress/videos)
-* [Bulgarian Language Academy](https://www.youtube.com/@bulgarianlanguageacademy2587/videos)
-* 
+* [Vasil Todorov](https://www.youtube.com/@vasiltodorov405/videos)
+* [Bulgarian Language Academy BELLA ](https://www.youtube.com/@bulgarianlanguageacademy2587/videos)
 
-
-### FLASHCARDS
+### Flashcards
 * [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
   * [Top 1000 Bulgarian Words (to English)]([https://ankiweb.net/shared/info/463280893](https://ankiweb.net/shared/info/1372052043))
+  * [Bulgarian Cyrillic, with audio (www.bulgaro.io)](https://ankiweb.net/shared/info/508216650)
+  * [Bulgarian Language A1/A2 (MUV Medical University Varna)](https://ankipro.net/library/deck/7758/bulgarian-language-a1a2--muv-medical-university-varna-)
     
