@@ -34,6 +34,8 @@ A curated list of awesome Bulgarian language resources.
 * [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/languages/bulgarian.html)
 * [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
 * [iLanguages](https://ilanguages.org/bulgarian.php)
+* [uTalk](https://utalk.com/en/plans/bulgarian)
+* [Transparent Languages](https://www.transparent.com/courses#/bulgarian?vis=individual&hash=individuals)
 * [Linguicious resources](https://linguicious.com/en/study-bulgarian)
 * [Talkio](https://www.talkio.ai/languages/bg-bg)
 * [Berlitz](https://www.berlitz.com/languages/bulgarian)
