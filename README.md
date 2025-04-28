@@ -44,6 +44,7 @@ A curated list of awesome Bulgarian language resources.
 * [Lingualeo](https://lingualeo.com/en/learn/bg)
 * [Tatoeba sentences](https://tatoeba.org/en/sentences/show_all_in/bul/none)
 * [Clozemaster](https://www.clozemaster.com/languages/expand-bulgarian-vocabulary)
+* [forvo](https://forvo.com/languages/bg/)
 
 ### Dictionaries
 * [Online rechnik](https://www.onlinerechnik.com)
@@ -92,9 +93,10 @@ A curated list of awesome Bulgarian language resources.
 
 ### Blogs 
 * [Lyudmila Antonov](https://lyudmilantonov.blogspot.com)
-* [Bulgarian Dialectology](https://bulgariandialectology.org/status-texts)
 * [The Bulgarian](https://www.thebulgarian.eu)
 * [Auntie Bulgaria](https://auntiebulgaria.com)
 
 ### Misc
 * [Transliterates from Bulgarian cyrillic to latin according to official Bulgarian rules](https://github.com/Efesto/vasov)
+* [Bulgarian Dialectology](https://bulgariandialectology.org/status-texts)
+* 
