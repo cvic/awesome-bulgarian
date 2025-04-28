@@ -38,14 +38,14 @@ A curated list of awesome Bulgarian language resources.
 * [Transparent Languages](https://www.transparent.com/courses#/bulgarian?vis=individual&hash=individuals)
 * [Linguicious resources](https://linguicious.com/en/study-bulgarian)
 * [Talkio](https://www.talkio.ai/languages/bg-bg)
-* [Loecsen Lean Bulgarian](https://www.loecsen.com/en/learn-bulgarian#/en/Essentials)
+* [Loecsen Learn Bulgarian](https://www.loecsen.com/en/learn-bulgarian#/en/Essentials)
 * [Berlitz](https://www.berlitz.com/languages/bulgarian)
 * [Dinolingo learn Bulgarian for kids](https://www.dinolingo.com/learn-bulgarian-for-kids)
 * [Linguee](https://www.linguee.com)
 * [Lingualeo](https://lingualeo.com/en/learn/bg)
 * [Tatoeba sentences](https://tatoeba.org/en/sentences/show_all_in/bul/none)
 * [Clozemaster](https://www.clozemaster.com/languages/expand-bulgarian-vocabulary)
-* [forvo](https://forvo.com/languages/bg/)
+* [Forvo - The pronunciation dictionary](https://forvo.com/languages/bg/)
 
 ### Dictionaries
 * [Online rechnik](https://www.onlinerechnik.com)
