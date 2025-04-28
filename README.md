@@ -5,8 +5,7 @@ A curated list of awesome Bulgarian language resources.
 
 
 ## Table of contents
-* [Online courses](#online-courses)
-* [Useful apps and services](#useful-apps-and-services)
+* [Online courses and apps](#online-courses)
 * [Dictionaries](#dictionaries)
 * [Podcasts](#podcasts)
 * [Radios](#radios)
@@ -22,20 +21,29 @@ A curated list of awesome Bulgarian language resources.
 ### Online courses and apps
 * [Bulgaro](https://www.bulgaro.io/learn-bulgarian)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
-* [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/) [\[app\] (https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages)
-* [Glossika](https://ai.glossika.com/language/learn-bulgarian) [\app\] (https://play.google.com/store/apps/details?id=com.glossika.ai)
-* [Ling](https://ling-app.com/learn-bulgarian) [\app\] (https://play.google.com/store/apps/details?id=com.simyasolutions.ling.universal)
+* [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/) [\[app\]] (https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages)
+* [Glossika](https://ai.glossika.com/language/learn-bulgarian) [\[app\]] (https://play.google.com/store/apps/details?id=com.glossika.ai)
+* [Ling](https://ling-app.com/learn-bulgarian) [\[app\]] (https://play.google.com/store/apps/details?id=com.simyasolutions.ling.universal)
 * [Lingohut](https://www.lingohut.com/en/l113/learn-bulgarian)
 * [Readlang](https://readlang.com/bg/dashboard)
-* [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
+* [Funeasylearn](https://www.funeasylearn.com/learn-bulgarian) [\[app\]] (https://play.google.com/store/apps/details?id=com.funeasylearn.bulgarian)
+* [qLango](https://qlango.com/languages) [\[app\]] (https://play.google.com/store/apps/details?id=co.uk.exocron.android.qlango)
+* [Tobo: Learn Bulgarian Words] [\[app\]] (https://play.google.com/store/apps/details?id=com.learn.common.bulgarian.vocabulary.words.learning.phrases)
 * [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/languages/bulgarian.html)
+* [17 Minute Languages](https://www.17-minute-languages.com/en/learn-bulgarian)
 * [iLanguages](https://ilanguages.org/bulgarian.php)
 * [Linguicious resources](https://linguicious.com/en/study-bulgarian)
 * [Talkio](https://www.talkio.ai/languages/bg-bg)
 * [Berlitz](https://www.berlitz.com/languages/bulgarian)
 * [Dinolingo learn Bulgarian for kids](https://www.dinolingo.com/learn-bulgarian-for-kids)
-* [uneasylearn](https://www.funeasylearn.com/learn-bulgarian) [\app\](https://play.google.com/store/apps/details?id=com.funeasylearn.bulgarian)
-* [qLango](https://qlango.com/languages) [\app\](https://play.google.com/store/apps/details?id=co.uk.exocron.android.qlango)
+* [Linguee] (https://www.linguee.com)
+* [Lingualeo) (https://lingualeo.com/en/learn/bg)
+
+### Dictionaries
+* [online rechnik](https://www.onlinerechnik.com)
+* [English-Bulgarian and Multilingual Dictionary](https://bgen.dict.cc)
+* [PONS](https://en.pons.com/translate/bulgarian-english)
+* [Bjargon](https://www.bgjargon.com)
 
 ### Podcasts
 * [BulgarianPod101](https://www.bulgarianpod101.com)
@@ -60,4 +68,10 @@ A curated list of awesome Bulgarian language resources.
   * [Top 1000 Bulgarian Words (to English)]([https://ankiweb.net/shared/info/463280893](https://ankiweb.net/shared/info/1372052043))
   * [Bulgarian Cyrillic, with audio (www.bulgaro.io)](https://ankiweb.net/shared/info/508216650)
   * [Bulgarian Language A1/A2 (MUV Medical University Varna)](https://ankipro.net/library/deck/7758/bulgarian-language-a1a2--muv-medical-university-varna-)
-    
+
+### SOCIAL NETWORKS
+* [Reddit](https://www.reddit.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
+    * [r/Bulgaria](https://www.reddit.com/r/bulgaria/comments/8wcq5x/so_you_want_to_learn_bulgarian_huh/)
+    * [r/Bulgarian_Language](https://www.reddit.com/r/Bulgarian_Language/comments/1e9e6ou/some_resources/)
+ * [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
+      
