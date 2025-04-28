@@ -62,6 +62,8 @@ A curated list of awesome Bulgarian language resources.
 ### Radios
 * [BG Radio](https://bg-radio.org)
 * [Radio Bulgaria On Air Live](https://www.bgonair.bg/p/radio)
+* [Radio BNR](https://bnr.bg)
+* [Focus Radio](https://www.focus-radio.net)
 
 ### YouTube channels
 * [BulgarianPod](https://www.youtube.com/@BulgarianPod101/videos)
