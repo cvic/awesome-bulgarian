@@ -61,6 +61,7 @@ A curated list of awesome Bulgarian language resources.
 
 ### Dictionaries
 * [Lexilogos](https://www.lexilogos.com/english/bulgarian_dictionary.htm)
+* [Wikdict](https://www.wikdict.com/bg-en/)
 * [Online rechnik](https://www.onlinerechnik.com)
 * [English-Bulgarian and Multilingual Dictionary](https://bgen.dict.cc)
 * [PONS](https://en.pons.com/translate/bulgarian-english)
