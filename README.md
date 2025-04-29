@@ -72,6 +72,7 @@ A curated list of awesome Bulgarian language resources.
 * [FluentFiction Bulgarian - Bilingual Stories](https://open.spotify.com/show/05XlSaeWRyzzDyI4ZRcVlJ)
 * [Learn Bulgarian](https://open.spotify.com/show/4Rag6OZzw3UliR05eDTotk)
 * [The Bulgarian](https://open.spotify.com/show/0FtlGMyDzMUcRzJmIfFYXy)
+* [Darik Radio Podcast](https://darikradio.bg/podcast.html)
 * [Euronews Bulgaria](https://open.spotify.com/show/2LbaJcj1CcUDYPwKgAt9EY)
 * [Bulgarian History Podcast](https://www.bghistorypodcast.com)
 * [Gradski detektiv/The Urban Detective](https://www.detectivepodcast.com/en/)
