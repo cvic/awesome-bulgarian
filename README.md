@@ -57,8 +57,10 @@ A curated list of awesome Bulgarian language resources.
 * [Clozemaster](https://www.clozemaster.com/languages/expand-bulgarian-vocabulary)
 * [Forvo - The pronunciation dictionary](https://forvo.com/languages/bg/)
 * [Brainscape Bulgarian Flashcards](https://www.brainscape.com/subjects/bulgarian)
+* [Bulgarian verb conjugation](https://www.verbix.com/languages/bulgarian)
 
 ### Dictionaries
+* [Lexilogos](https://www.lexilogos.com/english/bulgarian_dictionary.htm)
 * [Online rechnik](https://www.onlinerechnik.com)
 * [English-Bulgarian and Multilingual Dictionary](https://bgen.dict.cc)
 * [PONS](https://en.pons.com/translate/bulgarian-english)
@@ -145,3 +147,5 @@ A curated list of awesome Bulgarian language resources.
 * [The Forgotten Bulgarian](https://github.com/IvoKara/The-Forgotten-Bulgarian)
 * [Analysis of posts in the largest Bulgarian subreddit (/r/bulgaria)](https://github.com/sakelariev/bg-reddit-analysis-notebooks)
 * [AZ Deteto: knowledge and fun for children at any age](https://az-deteto.bg)
+* [Bulgarian literature](http://www.slovo.bg/authors.php3)
+* [Bulgarian poems, with translation (+ audio)](https://www.lyrikline.org/en/authors?nav=1&lang%5B%5D=bg)
