@@ -144,4 +144,4 @@ A curated list of awesome Bulgarian language resources.
 * [An Overview of the Bulgarian Language](https://www.languagesgulper.com/eng/Bulgarian_language.html)
 * [The Forgotten Bulgarian](https://github.com/IvoKara/The-Forgotten-Bulgarian)
 * [Analysis of posts in the largest Bulgarian subreddit (/r/bulgaria)](https://github.com/sakelariev/bg-reddit-analysis-notebooks)
-  
+* [AZ Deteto: knowledge and fun for children at any age](https://az-deteto.bg)
