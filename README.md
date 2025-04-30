@@ -59,6 +59,11 @@ A curated list of awesome Bulgarian language resources.
 * [Clozemaster](https://www.clozemaster.com/languages/expand-bulgarian-vocabulary)
 * [Berlitz](https://www.berlitz.com/languages/bulgarian)
 * [CoWorkingstudio Bulgarian Courses](https://www.co-workingstudio.com/learn-bulgarian-language)
+* [Romanian - Bulgarian language courses](https://hir-ed.eu/romanian-bulgarian-language-courses)
+* [Learn Bulgarian with OLS](https://academy.europa.eu/local/euacademy/pages/course/community-overview.php?title=learn-bulgarian-with-ols)
+* [Udemy Complete Bulgarian Course](https://www.udemy.com/course/complete-bulgarian-course-learn-bulgarian-for-beginners)
+* [Bulgarian language classes for migrants and refugees](https://refugee.bg/en/education/bulgarian-language-classes)
+* [Free Bulgarian language courses for Ukrainian refugees](https://ukraine.gov.bg/bulgarian-language-courses)
 
 ### Dictionaries
 * [Lexilogos](https://www.lexilogos.com/english/bulgarian_dictionary.htm)
@@ -106,7 +111,8 @@ A curated list of awesome Bulgarian language resources.
 * [Bulgarian Language Academy BELLA ](https://www.youtube.com/@bulgarianlanguageacademy2587/videos)
 * [Learn Bulgarian Easily](https://www.youtube.com/@learnbulgarian/videos)
 * [Bulgarian with golyplot](https://www.youtube.com/@golyplot/videos)
-* [I learn Bulgarian lesson 1 (Аз уча Български урок 1) TV series by Bulgarian national television](https://www.youtube.com/watch?v=9NC5zumL2yM&list=PLnEXbUSPy8Rslhj5xJeTb3mT9pqpLOl5N)
+* [Bulgarian National Television series: I learn Bulgarian (Аз уча Български)](https://www.youtube.com/watch?v=9NC5zumL2yM&list=PLnEXbUSPy8Rslhj5xJeTb3mT9pqpLOl5N)
+* [Bulgarian for Foreigners Soundtrack](https://www.youtube.com/playlist?list=PLqIuAB9ORCIQZNtwsC0kk9g48yZr9qCMR)
 
 ### Music
 * [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
@@ -154,6 +160,10 @@ A curated list of awesome Bulgarian language resources.
 * [A Concise Bulgarian Grammar - John Leafgren](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=9)
 * [Disney Audiobooks](https://open.spotify.com/show/1egQMCIb919cUAQP2PsISe)
 * [The Little Go Book Bulgarian Version](https://github.com/valll94/the-little-go-book-bg)
+
+### Government Institutes
+* [Institute for Bulgarian Language "Prof. Lyubomir Andreychin"](https://ibl.bas.bg/en/resursi)
+* [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en)
 
 ### Miscellanea
 * [Bulgarian Short Stories for Learners](https://pobavno.com)
