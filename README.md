@@ -4,7 +4,7 @@ A curated list of awesome Bulgarian language resources.
 > If you have a suggestion or found a broken link, please do not hesitate on [open an issue](https://github.com/cvic/awesome-bulgarian/issues).
 
 ## Table of contents
-* [Online courses](#online-courses)
+* [Online courses and apps](#online-courses-apps)
 * [Dictionaries](#dictionaries)
 * [Podcasts](#podcasts)
 * [Media](#media)
@@ -18,13 +18,18 @@ A curated list of awesome Bulgarian language resources.
 * [Government Institutes](#government-institutes)
 * [Miscellanea](#miscellanea)
 
-### Online courses
+### Online courses and apps
 * [Bulgaro](https://www.bulgaro.io/learn-bulgarian)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
 * [Mondly](https://www.mondly.com/blog/learn-bulgarian-online/) [\[app\]](https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages)
 * [Glossika](https://ai.glossika.com/language/learn-bulgarian) [\[app\]](https://play.google.com/store/apps/details?id=com.glossika.ai)
 * [Ling](https://ling-app.com/learn-bulgarian) [\[app\]](https://play.google.com/store/apps/details?id=com.simyasolutions.ling.universal)
 * [Talkpal.ai](https://talkpal.ai/learn-bulgarian) [\[app\]](https://play.google.com/store/apps/details?id=ai.talkpal)
+* [Jumpspeak](https://www.jumpspeak.com) [\[app\]](https://play.google.com/store/apps/details?id=com.rype.go)
+* [Langbuddy.ai](https://langbuddy.ai/practice/bulgarian)
+* [Marvely.ai](https://www.marvely.ai/start)
+* [Gliglish](https://gliglish.com/#bulgarian)
+* [Talkio.ai](https://www.talkio.ai/languages/bg-bg)
 * [LinGo Play](https://www.lingo-play.com/en/learn-bulgarian-language) [\[app\]](https://play.google.com/store/apps/details?id=ru.ipartner.lingo)
 * [iVoca](https://ivoca.io/index-app-bulgarian.html) [\[app\]](https://play.google.com/store/apps/details?id=io.ivoca.conversationbulgarian)
 * [Lingohut](https://www.lingohut.com/en/l113/learn-bulgarian)
@@ -47,17 +52,13 @@ A curated list of awesome Bulgarian language resources.
 * [Cudoo](https://cudoo.com/product-category/languages/bulgarian/)
 * [Transparent Languages](https://www.transparent.com/courses#/bulgarian?vis=individual&hash=individuals)
 * [Linguicious resources](https://linguicious.com/en/study-bulgarian)
-* [Talkio](https://www.talkio.ai/languages/bg-bg)
 * [Loecsen Learn Bulgarian](https://www.loecsen.com/en/learn-bulgarian#/en/Essentials)
-* [Berlitz](https://www.berlitz.com/languages/bulgarian)
 * [Dinolingo learn Bulgarian for kids](https://www.dinolingo.com/learn-bulgarian-for-kids)
-* [Linguee](https://www.linguee.com)
 * [Lingualeo](https://lingualeo.com/en/learn/bg)
 * [Tatoeba sentences](https://tatoeba.org/en/sentences/show_all_in/bul/none)
 * [Clozemaster](https://www.clozemaster.com/languages/expand-bulgarian-vocabulary)
-* [Forvo - The pronunciation dictionary](https://forvo.com/languages/bg/)
-* [Brainscape Bulgarian Flashcards](https://www.brainscape.com/subjects/bulgarian)
-* [Bulgarian verb conjugation](https://www.verbix.com/languages/bulgarian)
+* [Berlitz](https://www.berlitz.com/languages/bulgarian)
+* [CoWorkingstudio Bulgarian Courses](https://www.co-workingstudio.com/learn-bulgarian-language)
 
 ### Dictionaries
 * [Lexilogos](https://www.lexilogos.com/english/bulgarian_dictionary.htm)
@@ -65,6 +66,8 @@ A curated list of awesome Bulgarian language resources.
 * [Online rechnik](https://www.onlinerechnik.com)
 * [English-Bulgarian and Multilingual Dictionary](https://bgen.dict.cc)
 * [PONS](https://en.pons.com/translate/bulgarian-english)
+* [Linguee](https://www.linguee.com)
+* [Forvo - The pronunciation dictionary](https://forvo.com/languages/bg/)
 * [Bjargon](https://www.bgjargon.com)
 
 ### Podcasts
@@ -77,13 +80,15 @@ A curated list of awesome Bulgarian language resources.
 * [Bulgarian History Podcast](https://www.bghistorypodcast.com)
 * [Gradski detektiv/The Urban Detective](https://www.detectivepodcast.com/en/)
 * [SBS Bulgarian](https://tunein.com/podcasts/News--Politics-Podcasts/SBS-Bulgarian-p414924/)
-* [БНР подкасти](https://soundcloud.com/bnrpodcasts/sets/novinite-na-detski-ezik)
+* [BNR Podcast](https://bnr.bg/page/bnr-podkasti)
+* [BNR Podcast on Soundcloud](https://soundcloud.com/bnrpodcasts/sets/novinite-na-detski-ezik)
 
 ### Media
 * [A list of over 100 hundred Bulgarian Newspapers and News Media](http://www.abyznewslinks.com/bulga.htm)
 * [24chasa](https://www.24chasa.bg)
 * [dnes](https://www.dnes.bg)
 * [A list of 50 online TV stations](https://streema.com/radios/country/Bulgaria)
+* [Радио Онлайн България: Live FM] [\[app\]](https://play.google.com/store/apps/details?id=net.radioexpert.radio.bulgaria)
 * [BG Radio](https://bg-radio.org)
 * [Radio Bulgaria On Air Live](https://www.bgonair.bg/p/radio)
 * [bTV Radio](https://btvradio.bg)
@@ -117,37 +122,54 @@ A curated list of awesome Bulgarian language resources.
   * [Top 1000 Bulgarian Words (to English)](https://ankiweb.net/shared/info/1372052043)
   * [Bulgarian Cyrillic, with audio (www.bulgaro.io)](https://ankiweb.net/shared/info/508216650)
   * [Bulgarian Language A1/A2 (MUV Medical University Varna)](https://ankipro.net/library/deck/7758/bulgarian-language-a1a2--muv-medical-university-varna-)
+* [Brainscape Bulgarian Flashcards](https://www.brainscape.com/subjects/bulgarian)
 
 ### Social Networks
 * [Reddit](https://www.reddit.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
     * [r/Bulgaria](https://www.reddit.com/r/bulgaria/comments/8wcq5x/so_you_want_to_learn_bulgarian_huh/)
     * [r/Bulgarian_Language](https://www.reddit.com/r/Bulgarian_Language/comments/1e9e6ou/some_resources/)
- * [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
+    * [r/LearnBulgarian](https://www.reddit.com/r/LearnBulgarian/comments/1f52e5w/collection_of_learning_resources)
+* [Instagram](https://www.instagram.com) [\[app\]](https://play.google.com/store/apps/details?id=com.instagram.android&hl=en)
+    * [Bulgarinium](https://www.instagram.com/bulgarinium)
+    * [bulgarian.lessons](https://www.instagram.com/bulgarian.lessons)
+    * [bulgarian_for_foreigners](https://www.instagram.com/bulgarian_for_foreigners)
+    * [bulgarianlearning](https://www.instagram.com/bulgarianlearning)
+    * [learnitbulgarian](https://www.instagram.com/learnitbulgarian)
+    * [101bulgarianpod](https://www.instagram.com/101bulgarianpod)
+* [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
 
 ### Blogs 
 * [Lyudmila Antonov](https://lyudmilantonov.blogspot.com)
 * [The Bulgarian](https://www.thebulgarian.eu)
 * [Auntie Bulgaria](https://auntiebulgaria.com)
 * [Bulgarian Language for Non-Bulgarian Adults](https://grambulgaria.com)
+* [Bulgarikon](https://www.bulgarikon.ro)
 
 ### Books
-* [Teach yourself Bulgarian! Michael Holman, Mira Kovatcheva](https://www.goodreads.com/book/show/1262212.Bulgarian)
+* [Teach yourself Bulgarian! Michael Holman, Mira Kovatcheva](https://archive.org/details/02-teach-yourself-bulgarian/mode/2up)
 * [Colloquial Bulgarian, Kjetil Ra Ra Hauge, Yovka Tisheva](https://www.goodreads.com/book/show/26519366-colloquial-bulgarian)
 * [Intensive Bulgarian, Vol. 1: A Textbook & Reference Grammar, Ronelle Alexander, Olga M. Mladenova](https://www.goodreads.com/book/show/1626542.Intensive_Bulgarian_Vol_1)
 * [Intensive Bulgarian, Vol. 2: A Textbook & Reference Grammar, Ronelle Alexander, Olga M. Mladenova](https://www.goodreads.com/book/show/1626547.Intensive_Bulgarian_Vol_2)
 * [Grammar Matters: Bulgarian Grammar in Charts, Radost Sabeva, Zhana Zagorova, Milena Mileva](https://www.goodreads.com/book/show/25145533-grammar-matters)
 * [A Concise Bulgarian Grammar - John Leafgren](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=9)
+* [Disney Audiobooks](https://open.spotify.com/show/1egQMCIb919cUAQP2PsISe)
 * [The Little Go Book Bulgarian Version](https://github.com/valll94/the-little-go-book-bg)
 
 ### Miscellanea
+* [Bulgarian Short Stories for Learners](https://pobavno.com)
+* [European Comission Bulgarian Speech Repository](https://speech-repository.webcloud.ec.europa.eu/search-speeches?keyword=&collection=&speaker=&language=128&domain=All&level=All&use=All&type=All)
+* [Bulgarian oral corpus](https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-b659460e-aeec-4101-9946-0eaeec3101b2)
+* [DLIFLC Language Survival Kits](https://fieldsupport.dliflc.edu/productList.aspx?v=lsk)
 * [Online transliteration service for Bulgarian](https://translit.cc/bg)
-* [Transliterates from Bulgarian cyrillic to Latin according to official Bulgarian rules](https://github.com/Efesto/vasov)
+* [Transliterate Bulgarian cyrillic to Latin according to official Bulgarian rules](https://github.com/Efesto/vasov)
+* [Bulgarian verb conjugation](https://www.verbix.com/languages/bulgarian)
 * [Bulgarian Dialectology](https://bulgariandialectology.org/status-texts)
 * [News aggregator for the press releases of the Bulgarian government sites](https://presscenters.com)
 * [Bulgarian language linguistic datasets](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bulgarian)
 * [An Overview of the Bulgarian Language](https://www.languagesgulper.com/eng/Bulgarian_language.html)
-* [The Forgotten Bulgarian](https://github.com/IvoKara/The-Forgotten-Bulgarian)
+* [The Forgotten Bulgarian app](https://github.com/IvoKara/The-Forgotten-Bulgarian)
 * [Analysis of posts in the largest Bulgarian subreddit (/r/bulgaria)](https://github.com/sakelariev/bg-reddit-analysis-notebooks)
 * [AZ Deteto: knowledge and fun for children at any age](https://az-deteto.bg)
 * [Bulgarian literature](http://www.slovo.bg/authors.php3)
 * [Bulgarian poems, with translation (+ audio)](https://www.lyrikline.org/en/authors?nav=1&lang%5B%5D=bg)
+  
